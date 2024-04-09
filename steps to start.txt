@@ -1,0 +1,15 @@
+Hit this api to make collection named "votes" with this data
+
+https://crudcrud.com/api/7d955e427ec14f4f8e3a9f82f761313b/votes
+
+
+
+{
+  "sureshVotes": 0,
+  "deepankVotes": 0,
+  "abhikVotes": 0,
+  "totalVotes": 0,
+  "sureshVoters": [],
+  "deepankVoters": [],
+  "abhikVoters": []
+}
