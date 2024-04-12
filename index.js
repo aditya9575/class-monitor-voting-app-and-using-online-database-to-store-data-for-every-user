@@ -174,30 +174,6 @@ function submitVote() {
 }
 
 
-// function deleteVote(monitor, button) {
-//     // Get the parent <li> element
-//     const listItem = button.parentNode;
-  
-//     // Update the respective votes count and totalVotes
-//     if (monitor === 'Suresh') {
-//       sureshVotes--;
-//       document.getElementById('sureshVotes').textContent = sureshVotes;
-//     } else if (monitor === 'Deepank') {
-//       deepankVotes--;
-//       document.getElementById('deepankVotes').textContent = deepankVotes;
-//     } else if (monitor === 'Abhik') {
-//       abhikVotes--;
-//       document.getElementById('abhikVotes').textContent = abhikVotes;
-//     }
-  
-//     totalVotes--;
-//     document.getElementById('totalVotes').textContent = totalVotes;
-  
-//     // Remove the <li> element
-//     listItem.remove();
-//   }
-
-
 
 
 
